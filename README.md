@@ -1,3 +1,8 @@
+title: "test"
+output: html_document
+editor_options: 
+chunk_output_type: console
+---
 ```{css echo=FALSE}
 .bordered{
   border-style: solid;
