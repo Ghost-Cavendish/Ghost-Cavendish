@@ -1,5 +1,5 @@
 table {
-    border-width: 2rem;
+    border-width: 10px;
     border-style: dotted;
     border-color: grey;
     border-image-source: url("./bg2.jpg");
