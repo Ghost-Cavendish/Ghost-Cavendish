@@ -1,8 +1,7 @@
 table {
-    border-width: 1px;
-    border-style: dotted;
-    border-color: grey;
-    border-image-source: url("./bg2.jpg");
-    border-image-repeat: repeat;
-    border-image-slice: 650 175;
-  }
+  border-collapse:collapse;
+  table-layout: fixed;
+  border:0;
+  cellspacing: 0;
+  border-spacing: 0;
+}
