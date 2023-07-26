@@ -19,14 +19,14 @@ p a svg {
   position: absolute;
   left: 50%;
   bottom: 0;
-  transform: translate(-50%, 7px);
-  fill: none;
+  transform: translate(-50%， 7px);
+  fill: 无;
   stroke: var(--stroke, var(--line));
   stroke-linecap: round;
   stroke-width: 2px;
   stroke-dasharray: var(--offset, 69px) 310px;
   stroke-dashoffset: 383px;
-  transition: stroke 0.25s ease var(--delay, Bs), stroke-dasharray 0.35s;
+  transition: stroke 0.25s ease var(--delay, 0s)， stroke-dasharray 0.35s;
 }
 
 p a:hover {
