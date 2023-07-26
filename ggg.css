@@ -20,7 +20,7 @@ p a svg {
   left: 50%;
   bottom: 0;
   transform: translate(-50%， 7px);
-  fill: 无;
+  fill: none;
   stroke: var(--stroke, var(--line));
   stroke-linecap: round;
   stroke-width: 2px;
